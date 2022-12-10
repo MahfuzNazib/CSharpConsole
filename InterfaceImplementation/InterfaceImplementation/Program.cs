@@ -2,18 +2,31 @@
 {
     internal class Program
     {
+        /*
+         * AreaCalculation Interface. It has two method.
+         * 1. AreaResult
+         * 2. GetShapeSize
+         */
         public interface IAreaCalculation
         {
             void AreaResult();
             void GetShapeSize();
         }
-
+        
+        /*
+         * This is another Interface called TexCalculation
+         * It has only one method Called AreaResult also.
+         */
         public interface ITexCalculation
         {
             void AreaResult();
         }
 
-        public class Rectengle : IAreaCalculation, ITexCalculation
+        /*
+         * New class called Rectengle. This class inherite one interfaces
+         * which is IAreaCalculation. In that case Both two methods must be declare inside Rectengle class
+         */
+        public class Rectengle : IAreaCalculation
         {
             public void AreaResult()
             {
