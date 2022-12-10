@@ -1,0 +1,15 @@
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.exe
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.deps.json
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.runtimeconfig.json
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.dll
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\bin\Debug\net6.0\MyFirstApp.pdb
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.AssemblyReference.cache
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfoInputs.cache
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.AssemblyInfo.cs
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.csproj.CoreCompileInputs.cache
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.dll
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\obj\Debug\net6.0\refint\MyFirstApp.dll
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.pdb
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\obj\Debug\net6.0\MyFirstApp.genruntimeconfig.cache
+E:\Learning\C#\ConsoleApp\MyFirstApp\MyFirstApp\obj\Debug\net6.0\ref\MyFirstApp.dll
