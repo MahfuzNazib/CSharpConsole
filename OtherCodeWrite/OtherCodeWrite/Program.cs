@@ -9,6 +9,11 @@ namespace OtherCodeWrite
             //AllVariableWithType();
             TypeConversion();
 
+
+            /*
+             * If we used Const that means this value is not re-initialize again the saim scope. But we can again define same variable with 
+             * another values in different scope;
+             */
             const double pi = 3.1416;
             Console.WriteLine("PI Value is : " + pi);
         }
@@ -94,6 +99,7 @@ namespace OtherCodeWrite
             if(cgpaStatement == "3")
             {
                 Console.WriteLine("Pass");
+
                 double pi = 3.2562;
                 Console.WriteLine("Here Pi Value is : " + pi);
             }
