@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nazib\\.nuget\\packages\\": {}
+    "C:\\Users\\Nazib.m\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Learning\\C#\\ConsoleApp\\InterfaceImplementation\\InterfaceImplementation\\InterfaceImplementation.csproj",
+      "projectUniqueName": "E:\\C#\\CSharpConsole\\InterfaceImplementation\\InterfaceImplementation\\InterfaceImplementation.csproj",
       "projectName": "InterfaceImplementation",
-      "projectPath": "E:\\Learning\\C#\\ConsoleApp\\InterfaceImplementation\\InterfaceImplementation\\InterfaceImplementation.csproj",
-      "packagesPath": "C:\\Users\\nazib\\.nuget\\packages\\",
-      "outputPath": "E:\\Learning\\C#\\ConsoleApp\\InterfaceImplementation\\InterfaceImplementation\\obj\\",
+      "projectPath": "E:\\C#\\CSharpConsole\\InterfaceImplementation\\InterfaceImplementation\\InterfaceImplementation.csproj",
+      "packagesPath": "C:\\Users\\Nazib.m\\.nuget\\packages\\",
+      "outputPath": "E:\\C#\\CSharpConsole\\InterfaceImplementation\\InterfaceImplementation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\nazib\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Nazib.m\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

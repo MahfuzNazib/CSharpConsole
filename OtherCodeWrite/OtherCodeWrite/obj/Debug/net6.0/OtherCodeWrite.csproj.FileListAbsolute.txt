@@ -1,0 +1,15 @@
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\bin\Debug\net6.0\OtherCodeWrite.exe
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\bin\Debug\net6.0\OtherCodeWrite.deps.json
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\bin\Debug\net6.0\OtherCodeWrite.runtimeconfig.json
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\bin\Debug\net6.0\OtherCodeWrite.dll
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\bin\Debug\net6.0\OtherCodeWrite.pdb
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\obj\Debug\net6.0\OtherCodeWrite.csproj.AssemblyReference.cache
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\obj\Debug\net6.0\OtherCodeWrite.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\obj\Debug\net6.0\OtherCodeWrite.AssemblyInfoInputs.cache
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\obj\Debug\net6.0\OtherCodeWrite.AssemblyInfo.cs
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\obj\Debug\net6.0\OtherCodeWrite.csproj.CoreCompileInputs.cache
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\obj\Debug\net6.0\OtherCodeWrite.dll
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\obj\Debug\net6.0\refint\OtherCodeWrite.dll
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\obj\Debug\net6.0\OtherCodeWrite.pdb
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\obj\Debug\net6.0\OtherCodeWrite.genruntimeconfig.cache
+E:\C#\CSharpConsole\OtherCodeWrite\OtherCodeWrite\obj\Debug\net6.0\ref\OtherCodeWrite.dll

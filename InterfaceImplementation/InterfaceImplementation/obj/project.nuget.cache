@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E+wR4GFdyApRzmj3Sih+qdxaLsIlogg767gZjJhAjXwpt5J64Ms+CKxZbxRIzGoVOz86s/dr1NpPrvyLt2XW4Q==",
+  "dgSpecHash": "k2EXhWAl+CNraBlh0a3DYTs8NRJx2Hc0PbNsy+1OJewO1UGuguptJ39TiGDvPwltV5tw6VFXmMnivq2dBtd41g==",
   "success": true,
-  "projectFilePath": "E:\\Learning\\C#\\ConsoleApp\\InterfaceImplementation\\InterfaceImplementation\\InterfaceImplementation.csproj",
+  "projectFilePath": "E:\\C#\\CSharpConsole\\InterfaceImplementation\\InterfaceImplementation\\InterfaceImplementation.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
