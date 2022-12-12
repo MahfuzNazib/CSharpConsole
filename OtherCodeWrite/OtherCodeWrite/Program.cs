@@ -8,6 +8,9 @@ namespace OtherCodeWrite
         {
             //AllVariableWithType();
             TypeConversion();
+
+            const double pi = 3.1416;
+            Console.WriteLine("PI Value is : " + pi);
         }
 
         public static void AllVariableWithType()
@@ -80,6 +83,10 @@ namespace OtherCodeWrite
             Console.WriteLine("Variable Type : " + numInt.GetType());
             Console.WriteLine("Variable Value : " + numInt);
 
+
+            /*
+             * Here we take a float type number as cgpa; Then explicitly convert into integer type. After that again this converted integert to string.
+             */
             float cgpa = 3.64f;
             int roundedCGPA = (int)cgpa;
 
@@ -87,6 +94,8 @@ namespace OtherCodeWrite
             if(cgpaStatement == "3")
             {
                 Console.WriteLine("Pass");
+                double pi = 3.2562;
+                Console.WriteLine("Here Pi Value is : " + pi);
             }
             else
             {
