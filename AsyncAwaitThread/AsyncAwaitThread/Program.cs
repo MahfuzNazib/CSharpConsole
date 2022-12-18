@@ -16,7 +16,7 @@
             Console.WriteLine("Long Process End!!");
         }
 
-        public static async Task ShortProcess()
+        public static void ShortProcess()
         {
             Console.WriteLine("===================");
             Console.WriteLine("Short Process Start");
