@@ -1,0 +1,15 @@
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\obj\Debug\net6.0\AsyncAwaitThread.csproj.AssemblyReference.cache
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\obj\Debug\net6.0\AsyncAwaitThread.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\obj\Debug\net6.0\AsyncAwaitThread.AssemblyInfoInputs.cache
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\obj\Debug\net6.0\AsyncAwaitThread.AssemblyInfo.cs
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\obj\Debug\net6.0\AsyncAwaitThread.csproj.CoreCompileInputs.cache
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\bin\Debug\net6.0\AsyncAwaitThread.exe
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\bin\Debug\net6.0\AsyncAwaitThread.deps.json
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\bin\Debug\net6.0\AsyncAwaitThread.runtimeconfig.json
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\bin\Debug\net6.0\AsyncAwaitThread.dll
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\bin\Debug\net6.0\AsyncAwaitThread.pdb
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\obj\Debug\net6.0\AsyncAwaitThread.dll
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\obj\Debug\net6.0\refint\AsyncAwaitThread.dll
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\obj\Debug\net6.0\AsyncAwaitThread.pdb
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\obj\Debug\net6.0\AsyncAwaitThread.genruntimeconfig.cache
+E:\C#\CSharpConsole\AsyncAwaitThread\AsyncAwaitThread\obj\Debug\net6.0\ref\AsyncAwaitThread.dll

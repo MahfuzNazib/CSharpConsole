@@ -1,0 +1,15 @@
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\bin\Debug\net6.0\StringReverseWithRecursion.exe
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\bin\Debug\net6.0\StringReverseWithRecursion.deps.json
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\bin\Debug\net6.0\StringReverseWithRecursion.runtimeconfig.json
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\bin\Debug\net6.0\StringReverseWithRecursion.dll
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\bin\Debug\net6.0\StringReverseWithRecursion.pdb
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\obj\Debug\net6.0\StringReverseWithRecursion.csproj.AssemblyReference.cache
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\obj\Debug\net6.0\StringReverseWithRecursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\obj\Debug\net6.0\StringReverseWithRecursion.AssemblyInfoInputs.cache
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\obj\Debug\net6.0\StringReverseWithRecursion.AssemblyInfo.cs
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\obj\Debug\net6.0\StringReverseWithRecursion.csproj.CoreCompileInputs.cache
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\obj\Debug\net6.0\StringReverseWithRecursion.dll
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\obj\Debug\net6.0\refint\StringReverseWithRecursion.dll
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\obj\Debug\net6.0\StringReverseWithRecursion.pdb
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\obj\Debug\net6.0\StringReverseWithRecursion.genruntimeconfig.cache
+E:\C#\CSharpConsole\StringReverseWithRecursion\StringReverseWithRecursion\obj\Debug\net6.0\ref\StringReverseWithRecursion.dll
