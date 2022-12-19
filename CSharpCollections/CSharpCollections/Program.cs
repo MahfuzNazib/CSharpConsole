@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            //SimpleCollection();
+            SimpleCollection();
             //AnotherListCollections();
-            ListWithClass();
+            //ListWithClass();
         }
 
         public static void SimpleCollection()
@@ -24,7 +24,7 @@
 
             salmons.Remove("abc");
             Console.WriteLine("----");
-
+            salmons.Insert(2, "New Inserted");
             foreach (var salmon in salmons)
             {
                 Console.WriteLine(salmon);
