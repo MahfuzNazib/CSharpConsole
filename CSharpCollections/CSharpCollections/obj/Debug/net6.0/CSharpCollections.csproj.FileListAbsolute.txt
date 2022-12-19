@@ -1,0 +1,15 @@
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\bin\Debug\net6.0\CSharpCollections.exe
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\bin\Debug\net6.0\CSharpCollections.deps.json
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\bin\Debug\net6.0\CSharpCollections.runtimeconfig.json
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\bin\Debug\net6.0\CSharpCollections.dll
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\bin\Debug\net6.0\CSharpCollections.pdb
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\obj\Debug\net6.0\CSharpCollections.csproj.AssemblyReference.cache
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\obj\Debug\net6.0\CSharpCollections.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\obj\Debug\net6.0\CSharpCollections.AssemblyInfoInputs.cache
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\obj\Debug\net6.0\CSharpCollections.AssemblyInfo.cs
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\obj\Debug\net6.0\CSharpCollections.csproj.CoreCompileInputs.cache
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\obj\Debug\net6.0\CSharpCollections.dll
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\obj\Debug\net6.0\refint\CSharpCollections.dll
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\obj\Debug\net6.0\CSharpCollections.pdb
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\obj\Debug\net6.0\CSharpCollections.genruntimeconfig.cache
+E:\C#\CSharpConsole\CSharpCollections\CSharpCollections\obj\Debug\net6.0\ref\CSharpCollections.dll
