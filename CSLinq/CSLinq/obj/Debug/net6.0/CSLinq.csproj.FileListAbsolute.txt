@@ -1,0 +1,15 @@
+E:\C#\CSharpConsole\CSLinq\CSLinq\bin\Debug\net6.0\CSLinq.exe
+E:\C#\CSharpConsole\CSLinq\CSLinq\bin\Debug\net6.0\CSLinq.deps.json
+E:\C#\CSharpConsole\CSLinq\CSLinq\bin\Debug\net6.0\CSLinq.runtimeconfig.json
+E:\C#\CSharpConsole\CSLinq\CSLinq\bin\Debug\net6.0\CSLinq.dll
+E:\C#\CSharpConsole\CSLinq\CSLinq\bin\Debug\net6.0\CSLinq.pdb
+E:\C#\CSharpConsole\CSLinq\CSLinq\obj\Debug\net6.0\CSLinq.csproj.AssemblyReference.cache
+E:\C#\CSharpConsole\CSLinq\CSLinq\obj\Debug\net6.0\CSLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\CSharpConsole\CSLinq\CSLinq\obj\Debug\net6.0\CSLinq.AssemblyInfoInputs.cache
+E:\C#\CSharpConsole\CSLinq\CSLinq\obj\Debug\net6.0\CSLinq.AssemblyInfo.cs
+E:\C#\CSharpConsole\CSLinq\CSLinq\obj\Debug\net6.0\CSLinq.csproj.CoreCompileInputs.cache
+E:\C#\CSharpConsole\CSLinq\CSLinq\obj\Debug\net6.0\CSLinq.dll
+E:\C#\CSharpConsole\CSLinq\CSLinq\obj\Debug\net6.0\refint\CSLinq.dll
+E:\C#\CSharpConsole\CSLinq\CSLinq\obj\Debug\net6.0\CSLinq.pdb
+E:\C#\CSharpConsole\CSLinq\CSLinq\obj\Debug\net6.0\CSLinq.genruntimeconfig.cache
+E:\C#\CSharpConsole\CSLinq\CSLinq\obj\Debug\net6.0\ref\CSLinq.dll
