@@ -6,12 +6,36 @@ namespace CSharpList
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Initializing Empty List...");
-            List <Int32> numberList = new List<Int32>();
-            //Wait for 3 Second
-            Thread.Sleep(2000);
-            Console.WriteLine("Initiliazation Done");
-            NumberInput(numberList);  
+            //Console.WriteLine("Initializing Empty List...");
+            //List <Int32> numberList = new List<Int32>();
+            ////Wait for 3 Second
+            //Thread.Sleep(2000);
+            //Console.WriteLine("Initiliazation Done");
+            //NumberInput(numberList);
+            //
+
+            Console.WriteLine("Choose The Correct Option");
+            Console.WriteLine("-------------------------");
+            Console.WriteLine("1. Student Object  2. Int32");
+            int userOptionInput = Convert.ToInt32(Console.ReadLine());
+
+            if(userOptionInput == 1)
+            {
+                Console.WriteLine("Initilizing Student Object");
+                List<Student> student = new List<Student>();
+                Thread.Sleep(3000);
+                Console.WriteLine("Student List is Initialized");
+                PrintStudentList(student);
+            }
+        }
+
+        public static void PrintStudentList(List<Student> studentList)
+        {
+            foreach(Student student in studentList)
+            {
+                Console.WriteLine("Student List Contain");
+                Console.WriteLine("Index[{0}] : {1}", studentList.IndexOf(student));
+            }
         }
 
         public static void NumberInput(List<Int32> numberList)
