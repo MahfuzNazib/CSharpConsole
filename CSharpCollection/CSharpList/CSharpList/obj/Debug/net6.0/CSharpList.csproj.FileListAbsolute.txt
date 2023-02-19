@@ -1,0 +1,15 @@
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\bin\Debug\net6.0\CSharpList.exe
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\bin\Debug\net6.0\CSharpList.deps.json
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\bin\Debug\net6.0\CSharpList.runtimeconfig.json
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\bin\Debug\net6.0\CSharpList.dll
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\bin\Debug\net6.0\CSharpList.pdb
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\obj\Debug\net6.0\CSharpList.csproj.AssemblyReference.cache
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\obj\Debug\net6.0\CSharpList.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\obj\Debug\net6.0\CSharpList.AssemblyInfoInputs.cache
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\obj\Debug\net6.0\CSharpList.AssemblyInfo.cs
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\obj\Debug\net6.0\CSharpList.csproj.CoreCompileInputs.cache
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\obj\Debug\net6.0\CSharpList.dll
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\obj\Debug\net6.0\refint\CSharpList.dll
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\obj\Debug\net6.0\CSharpList.pdb
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\obj\Debug\net6.0\CSharpList.genruntimeconfig.cache
+E:\Learning\C#\CSharpConsole\CSharpCollection\CSharpList\CSharpList\obj\Debug\net6.0\ref\CSharpList.dll
