@@ -1,0 +1,15 @@
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\bin\Debug\net6.0\ListWithObject.exe
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\bin\Debug\net6.0\ListWithObject.deps.json
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\bin\Debug\net6.0\ListWithObject.runtimeconfig.json
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\bin\Debug\net6.0\ListWithObject.dll
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\bin\Debug\net6.0\ListWithObject.pdb
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\obj\Debug\net6.0\ListWithObject.csproj.AssemblyReference.cache
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\obj\Debug\net6.0\ListWithObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\obj\Debug\net6.0\ListWithObject.AssemblyInfoInputs.cache
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\obj\Debug\net6.0\ListWithObject.AssemblyInfo.cs
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\obj\Debug\net6.0\ListWithObject.csproj.CoreCompileInputs.cache
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\obj\Debug\net6.0\ListWithObject.dll
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\obj\Debug\net6.0\refint\ListWithObject.dll
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\obj\Debug\net6.0\ListWithObject.pdb
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\obj\Debug\net6.0\ListWithObject.genruntimeconfig.cache
+E:\Learning\C#\CSharpConsole\CSharpCollection\ListWithObject\ListWithObject\obj\Debug\net6.0\ref\ListWithObject.dll

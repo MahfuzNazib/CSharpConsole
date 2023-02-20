@@ -38,6 +38,19 @@ namespace CSharpList
             }
         }
 
+        public static void StudentListManage(List<Student> studentList)
+        {
+            Console.WriteLine("Choose Option");
+            Console.WriteLine("-------------------------------");
+            Console.WriteLine("1. Add Student; 2. Remove Student; 3. Print Student List");
+            int userInputStudentManage = Convert.ToInt32(Console.ReadLine());
+
+            if(userInputStudentManage == 1)
+            {
+
+            }
+        }
+
         public static void NumberInput(List<Int32> numberList)
         {
             Console.WriteLine("-------");
