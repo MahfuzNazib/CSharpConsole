@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             ListSearchSort listSearchSort = new ListSearchSort();
-            listSearchSort.StringList();
+            listSearchSort.GetAllStudent();
         }
     }
 }

@@ -6,44 +6,29 @@ using System.Threading.Tasks;
 
 namespace ListWithObject
 {
-    public class ListSearchSort
+    public class ListSearchSort : Student
     {
-        public void StringList()
+        public List<Student> GetAllStudent()
         {
-            List<string> studentsName = new List<string>();
-            studentsName.Add("Nazib");
-            studentsName.Add("Mahfuz");
-            studentsName.Add("Software Engineer");
-            studentsName.Add("hSenid");
-            studentsName.Add("Business Solutions");
+            List<Student> students = new List<Student>();
 
-            PrintList(studentsName);
+            students.Add( new Student() { StudentCode=1011, StudentName="Nazib Mahfuz", MajorCourse="Software Engineering", CGPA=3.65} );
+            students.Add( new Student() { StudentCode=1012, StudentName="Ali Hasan", MajorCourse="MIS", CGPA=4.00} );
 
-            // Check a specific Item is exists on List or not
-            Console.WriteLine(studentsName.Contains("Nazib Mahfuz"));
-
-            studentsName.RemoveRange(0, 2);
-
-            string[] cars = { "Volvo", "BMW", "Ford", "Mazda" };
-
-            foreach(string car in cars)
+            foreach(Student student in students)
             {
-                studentsName.Add(car);
+                Console.WriteLine("Student Code : " + student.StudentCode);
+                Console.WriteLine("Student Name : " + student.StudentName);
+                Console.WriteLine("Major Course : " + student.MajorCourse);
+                Console.WriteLine("Student CGPA : " + student.CGPA);
+
+                Console.WriteLine("\n");
             }
 
-            Console.WriteLine("Add More String on List");
-            string[] userInputs = { };
-            string userInput = Convert.ToString(Console.ReadLine());
-            PrintList(studentsName);
+            return students;
         }
 
-        public void PrintList(List<string> studentsName)
-        {
-            foreach(string name in studentsName) 
-            {
-                Console.WriteLine(name);
-            }
-        }
+        
 
     }
 }
