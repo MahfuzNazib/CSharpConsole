@@ -1,0 +1,15 @@
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\bin\Debug\net6.0\CSharpDelegates.exe
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\bin\Debug\net6.0\CSharpDelegates.deps.json
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\bin\Debug\net6.0\CSharpDelegates.runtimeconfig.json
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\bin\Debug\net6.0\CSharpDelegates.dll
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\bin\Debug\net6.0\CSharpDelegates.pdb
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\obj\Debug\net6.0\CSharpDelegates.csproj.AssemblyReference.cache
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\obj\Debug\net6.0\CSharpDelegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\obj\Debug\net6.0\CSharpDelegates.AssemblyInfoInputs.cache
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\obj\Debug\net6.0\CSharpDelegates.AssemblyInfo.cs
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\obj\Debug\net6.0\CSharpDelegates.csproj.CoreCompileInputs.cache
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\obj\Debug\net6.0\CSharpDelegates.dll
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\obj\Debug\net6.0\refint\CSharpDelegates.dll
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\obj\Debug\net6.0\CSharpDelegates.pdb
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\obj\Debug\net6.0\CSharpDelegates.genruntimeconfig.cache
+E:\Learning\C#\CSharpConsole\CSharpDelegates\CSharpDelegates\obj\Debug\net6.0\ref\CSharpDelegates.dll
